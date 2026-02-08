@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut molestias sed vitae ad nostrum architecto, culpa itaque ipsum explicabo ratione, doloribus reprehenderit incidunt earum fugiat odio voluptas! Ipsum, voluptatem sed.</p>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
